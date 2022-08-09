@@ -1,0 +1,35 @@
+@ charset "utf-8";
+
+*{
+    font-family:'antigo' ;
+    src: url('fontes/Olondona.otf') format('opentype');
+    
+    }
+    body{
+        background-image: linear-gradient(to right,#154666, #298073, #438F68, #94d890);
+    }
+
+
+main{
+    background-color: #bed4e3;
+    width: 1000px;
+    padding: 10px;
+    margin: auto;
+    box-shadow: 5px 5px 10px #2c3e4c;
+}
+h1{
+    color:#052d277c;
+    text-align: center;
+}
+h2{
+    color:#5A9C56 ;
+}
+h3{font-family: 'antigo';
+    font-size: x-large;
+    color: rgb(66, 66, 151);
+    text-align: left;
+}
+p{
+    text-align: justify;
+    font-size: 16px;
+}
